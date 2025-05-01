@@ -1,0 +1,3 @@
+!nvidia-smi
+!nvcc -arch=sm_75 myfile.cu
+!./a.out
